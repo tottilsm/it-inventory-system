@@ -1,0 +1,37 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Django
+staticfiles/
+media/
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/build/
+
+# Environment
+.env
+*.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp scripts
+fix_*.py
+*.log
